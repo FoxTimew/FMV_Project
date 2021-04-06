@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/UD/UD_Scene/UD_TestScene1.unity
+- path: Assets/UD/UD_Scene/Test/PointAndClick/FindTheKey.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
